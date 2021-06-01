@@ -1,2 +1,2 @@
 # branchTraining
-GItコマンドの練習
+GItコマンドの練習です
